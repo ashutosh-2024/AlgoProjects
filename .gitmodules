@@ -1,0 +1,6 @@
+[submodule "AlgoTrading"]
+	path = AlgoTrading
+	url = git@github.com:ashutosh-2024/AlgoTrading.git
+[submodule "AlgoFnO"]
+	path = AlgoFnO
+	url = git@github.com:ashutosh-2024/AlgoFnO.git
